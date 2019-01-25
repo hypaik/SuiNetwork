@@ -21,6 +21,7 @@ We present the source codes as an example of our research project to help a user
 
 #How to use########
 This project consists of three steps.
+
 <Step 0>: see the folder "DataProcessing"
 0-0. preprocessing of data (e.g. conversion date into numeric value based on the method of KSP data format)
 0-1. KNN imputation for missing values
